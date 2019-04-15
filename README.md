@@ -14,7 +14,7 @@ Groomed issues that are lower priority. These are issues possibly associated wit
 ### In Plan
 Issues that are priority and need to be completed with their associated milestone
 
-## Sprint + 1
+### Sprint + 1
 Issues that the team has agreed to work on in the next sprint.
 
 ### Current Sprint
