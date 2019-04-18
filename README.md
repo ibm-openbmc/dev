@@ -24,8 +24,7 @@ Issues the team is currently working on
 Issues that have a pending review in Gerrit
 
 ### Done
-* For DEV???
-* Work associated with a GUI Design issue is waiting for design sign-off
+* GUI Design Issue: Story completed by FED and ready for design sign-off
 
 ### Closed
 Work associated with the issue has been merged
