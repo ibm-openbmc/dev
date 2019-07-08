@@ -3,28 +3,28 @@ This repository will be used for tracking IBM downstream product development rel
 
 ## ZenHub Pipelines
 ### New Issues
-These issues haven't been groomed and typically need to be assigned to a milestone
+These stories haven't been groomed and typically need to be assigned to a milestone.
 
 ### Epics
-Contains Epics only. Epics remain in this pipeline until all associated issues are closed
+Contains Epics only. Epics remain in this pipeline until all associated issues are closed.
 
 ### Backlog
-Groomed issues that are lower priority. These are issues possibly associated with a x.x.99 milestone
+Stories that are lower prioroty and not on the immediate roadmap, but will be revisited for a future release.
 
 ### In Plan
-Issues that are priority and need to be completed with their associated milestone
+Stories that have been prioritized and scoped to a milestone for completion.
 
 ### Sprint + 1
-Issues that the team has agreed to work on in the next sprint.
+Stories that the team has agreed to work on in the upcoming sprint.
 
 ### Current Sprint
-Issues the team is currently working on
+Stories the team are currently working on. 
 
 ### Code Review
-Issues that have a pending review in Gerrit
+Stories that have a pending review in Gerrit and/or waiting for GUI Design sign-off.
 
-### Done
-* GUI Design Issue: Story completed by FED and ready for design sign-off
+### Code Review in Driver
+Stories that are pulled into a release downstream, but are not upstream yet.
 
 ### Closed
-Work associated with the issue has been merged
+Work associated with the issue has been merged.
