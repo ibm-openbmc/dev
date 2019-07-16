@@ -7,11 +7,6 @@ assignees: ''
 
 ---
 
-## Expected Delivery Dates
-- [ ] UX: xx/xx/xx
-- [ ] Backend: xx/xx/xx
-- [ ] FED: xx/xx/xx
-
 ## Stakeholders
 **SME**:
 **Design Researcher**:
