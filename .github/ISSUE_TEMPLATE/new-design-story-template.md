@@ -2,7 +2,7 @@
 name: New Design Story Template
 about: Use this template when creating any new GUI Design Story
 title: ''
-labels: Design, GUI
+labels: GUI, UI Design
 assignees: ''
 
 ---
@@ -19,16 +19,16 @@ assignees: ''
 **FED**:
 
 ## Use Case
----
+TBD
 
 ## InVision Prototype
----
+TBD
 
 ## Design Issue (phosphor-webui)
----
+TBD
 
 ## Development Issue 
----
+TBD
 
 ## References/Resources
----
+TBD
