@@ -15,10 +15,10 @@ Stories that are lower prioroty and not on the immediate roadmap, but will be re
 Stories that have been prioritized and scoped to a milestone for completion.
 
 ### Sprint + 1
-Stories that the team has agreed to work on in the upcoming sprint.
+Stories that the team has agreed to work on in the upcoming sprint. Also can be referred to as a `Ready` pipeline.
 
 ### Current Sprint
-Stories the team are currently working on. 
+Stories the team are currently working on. Consider this the `In Progress` pipeline. 
 
 ### Code Review
 Stories that have a pending review in Gerrit and/or waiting for GUI Design sign-off.
