@@ -26,4 +26,8 @@ TBD
 TBD
 
 ## References/Resources
-TBD
+- feature discovery folder: 
+- user research notes*: 
+- user research synthesis: 
+
+*This folder is restricted in accordance with GDPR guidelines.
