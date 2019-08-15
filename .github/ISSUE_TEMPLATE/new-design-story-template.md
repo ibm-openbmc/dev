@@ -1,7 +1,7 @@
 ---
 name: New Design Story Template
 about: Use this template when creating any new GUI Design Story
-title: ''
+title: 'GUI : Design : '
 labels: GUI, UI Design
 assignees: ''
 
