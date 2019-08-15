@@ -1,7 +1,7 @@
 ---
 name: New FED Story Template
 about: Use this template when creating any new GUI FED Story
-title: 'GUI : FED : '
+title: 'GUI : FED : (Add story title here)'
 labels: GUI, UI FED
 assignees: ''
 
