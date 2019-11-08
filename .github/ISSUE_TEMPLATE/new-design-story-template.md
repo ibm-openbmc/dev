@@ -9,9 +9,6 @@ assignees: ''
 
 ## Stakeholders
 **SME**:
-**Design Researcher**:
-**UX Designer**:
-**FED**:
 
 ## Use Case
 TBD
@@ -22,12 +19,11 @@ TBD
 ## Design Issue (phosphor-webui)
 TBD
 
-## Development Issue 
-TBD
 
 ## References/Resources
+- eBMC Feature Item: 
 - feature discovery folder: 
 - user research notes*: 
 - user research synthesis: 
 
-*This folder is restricted in accordance with GDPR guidelines.
+* This folder is restricted in accordance with GDPR guidelines.
