@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-## Stakeholders
-**SME**:
+## SMEs
+**BMC**:
 
 ## Use Case
 TBD
