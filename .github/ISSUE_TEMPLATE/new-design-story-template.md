@@ -19,9 +19,8 @@ TBD
 ## Design Issue (phosphor-webui)
 TBD
 
-
 ## References/Resources
-- [eBMC Feature Item:] <add item number> (https://ibm.box.com/s/j15ux3yfjycy4or4azbqyhqq11lbya0r)
+- [eBMC Feature Item: <add item number>](https://ibm.box.com/s/j15ux3yfjycy4or4azbqyhqq11lbya0r)
 - feature discovery folder: 
 - user research notes*: 
 - user research synthesis: 
