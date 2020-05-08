@@ -11,7 +11,7 @@ assignees: ''
 **BMC**:
 
 ## Use Case
-TBD
+<add use case for the the overall epic>
 
 ## References/Resources
 - [eBMC Feature Item: <add item number>](https://ibm.box.com/s/j15ux3yfjycy4or4azbqyhqq11lbya0r)
