@@ -16,3 +16,13 @@ assignees: ''
 As a ________ (type of user)
 I want to _________ (some action)
 so that I can ___________ (some outcome).
+
+## Curl Commands
+```
+```
+
+## Resources
+- Invision: 
+- Research: 
+- Slack:
+- Redfish: 
