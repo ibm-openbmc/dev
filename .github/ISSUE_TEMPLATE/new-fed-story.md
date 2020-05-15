@@ -20,7 +20,7 @@ assignees: ''
 
 ## Notes
 - [ ] Any known API workarounds
-- [ ] Any server-side functonality WIP
+- [ ] Any server-side functionality WIP
 
 ## UI Checklist
 ### Browser Tests (Chrome, Firefox, Safari (Mac), Edge (Windows))
@@ -28,7 +28,8 @@ assignees: ''
 - [ ] Verified functionality works as expected, e.g. success and failure use cases
 - [ ] Resolved any JavaScript errors thrown to the console
 
-## Accessiblity Tests
+### Accessibility Tests
 - [ ] Verified markup is semantic
 - [ ] No reported issues in DAP
+
 
