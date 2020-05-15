@@ -6,23 +6,29 @@ labels: GUI, UI FED, Milestone Tgt
 assignees: ''
 
 ---
+## Overview
+- [ ] Add Overview
 
-## As Is
+## UX Flow / Interaction Requirements
+- [ ] Feature breakdown
 
-## To Be
+## Final Invision Mockup
+- [ ] Add Link
 
--- OR --
+## cURL Commands
+- [ ] Add cURL commands
 
-As a ________ (type of user)
-I want to _________ (some action)
-so that I can ___________ (some outcome).
+## Notes
+- [ ] Any known API workarounds
+- [ ] Any server-side functonality WIP
 
-## Curl Commands
-```
-```
+## UI Checklist
+### Browser Tests (Chrome, Firefox, Safari (Mac), Edge (Windows))
+- [ ] Tested responsive layout on supported viewport sizes
+- [ ] Verified functionality works as expected, e.g. success and failure use cases
+- [ ] Resolved any JavaScript errors thrown to the console
 
-## Resources
-- Invision: 
-- Research: 
-- Slack:
-- Redfish: 
+## Accessiblity Tests
+- [ ] Verified markup is semantic
+- [ ] No reported issues in DAP
+
