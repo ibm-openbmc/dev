@@ -26,5 +26,6 @@ assignees: ''
 ### User Quotes
 - [ ] TBD
 
-### References
+## References
+- [ ] eBMC Feature Item <add number>
 - [ ] Link to Discovery folder
