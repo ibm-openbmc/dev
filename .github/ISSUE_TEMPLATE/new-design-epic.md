@@ -5,18 +5,23 @@ title: 'eBMC GUI : (Add epic title here)'
 labels: GUI
 assignees: ''
 
+## SME
+- Refer to GUI : Resarch Story
+
 ---
+## Tasks (Delete when completed)
+- [ ] Add the milestone
+- [ ] Add to the Epic pipeline
+- [ ] Create as Epic
+- [ ] Add Research, Design, and FED stories to the Epic
+   - Create placeholder stories for each design / fed stage if they don't exist
 
-## SMEs
-**BMC**:
+## Summary
+- [ ] Add brief summary of the overall Epic
+    - Is this part of a new or existing Information Architecture
+    - Is this just a wrapper for the stories created for each design / fed stages
 
-## Use Case
-<add use case for the the overall epic>
 
 ## References/Resources
-- eBMC Feature Item: <add item number>
-- feature discovery folder: 
-- user research notes*: 
-- user research synthesis: 
-
-* This folder is restricted in accordance with GDPR guidelines.
+- [ ] Add eBMC Feature Item <add item number>
+- [ ] Add feature discovery folder (create if doesn't exist)
