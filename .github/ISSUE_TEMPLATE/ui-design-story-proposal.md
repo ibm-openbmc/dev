@@ -7,7 +7,9 @@ assignees: ''
 
 ---
 ## User Story
-As a ____, I need to ____ in order to ______
+As a <type of user>
+I need to <perform some activity>
+in order to <complete some task or accomplish some goal>
 
 ## Use Case(s)
 TBD
