@@ -6,6 +6,8 @@ labels: GUI, UI Design, Milestone Tgt
 assignees: ''
 
 ---
+## User Story
+As a ____, I need to ____ in order to ______
 
 ## Use Case(s)
 TBD
