@@ -21,6 +21,7 @@ TBD
 - [ ] Iteration 2
 - [ ] Iteation 3 (Final)
 
-## Design Issue (webui-vue)
-TBD
+## Community
+- [ ] Created design review story in webui-vue repo
+- [ ] Sent email to community sharing the design review story
 
