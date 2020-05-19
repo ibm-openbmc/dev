@@ -12,7 +12,7 @@ I need to <perform some activity>
 in order to <complete some task or accomplish some goal>
 
 ## Use Case(s)
-TBD
+- [ ] Add use case(s)
 
 ## Design Goals
 - [ ] 
