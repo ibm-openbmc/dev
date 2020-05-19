@@ -15,9 +15,9 @@ in order to <complete some task or accomplish some goal>
 - [ ] Add use case(s)
 
 ## Design Goals
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Goal 1
+- [ ] Goal 2
+- [ ] Goal 3
 
 ## InVision Prototype
 - [ ] Iteration 0
