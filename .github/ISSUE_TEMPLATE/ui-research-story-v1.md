@@ -1,5 +1,5 @@
 ---
-name: New Research Story Template
+name: UI Research Story Template
 about: Use this template when creating any new GUI Research Story
 title: 'GUI : Research : (Add story title here)'
 labels: GUI, UI Research, Milestone Tgt
