@@ -1,6 +1,6 @@
 ---
-name: New Design Story Template
-about: This template is for historical purposes only. Use the v2 template.
+name: UI Design Story Template (Old)
+about: Do Not Use...This template is for historical purposes only. Use the v2 template.
 title: 'GUI : Design : (Add story title here)'
 labels: GUI, UI Design, Milestone Tgt
 assignees: ''
