@@ -1,14 +1,11 @@
 ---
-name: New Design Epic Template
+name: Design Epic Template
 about: Use this template when creating any new GUI Epic
 title: 'eBMC GUI : (Add epic title here)'
 labels: GUI
 assignees: ''
-
-## SME
-- Refer to GUI : Resarch Story
-
 ---
+
 ## Tasks (Delete when completed)
 - [ ] Add the milestone
 - [ ] Add to the Epic pipeline
