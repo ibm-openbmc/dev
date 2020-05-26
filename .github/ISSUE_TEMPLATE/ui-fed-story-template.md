@@ -30,6 +30,6 @@ assignees: ''
 
 ### Accessibility Tests
 - [ ] Verified markup is semantic
-- [ ] No reported issues in DAP
+- [ ] No reported issues in IBM Accessibility Checker (Free open source tool) https://www.ibm.com/able/toolkit/tools/
 
 
