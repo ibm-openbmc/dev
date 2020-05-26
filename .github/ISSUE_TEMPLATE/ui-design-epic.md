@@ -1,5 +1,5 @@
 ---
-name: Design Epic Template
+name: UI Design Epic Template
 about: Use this template when creating any new GUI Epic
 title: 'eBMC GUI : (Add epic title here)'
 labels: GUI
