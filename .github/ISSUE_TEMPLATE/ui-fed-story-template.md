@@ -32,4 +32,7 @@ assignees: ''
 - [ ] Verified markup is semantic
 - [ ] No reported issues in IBM Accessibility Checker (Free open source tool) https://www.ibm.com/able/toolkit/tools/
 
+### Test Hooks
+- [ ] Added test hooks for all form elements
+
 
