@@ -1,6 +1,6 @@
 ---
 name: UI FED Story Template
-about: Use this template when creating any new GUI FED Story
+about: Use this template when creating any new GUI FED Story only
 title: 'GUI : FED : (Add story title here)'
 labels: GUI, UI FED, Milestone Tgt
 assignees: ''
