@@ -10,8 +10,7 @@ assignees: ''
 - [ ] Add the milestone
 - [ ] Add to the Epic pipeline
 - [ ] Create as Epic
-- [ ] Add Research, Design, and FED stories to the Epic
-   - Create placeholder stories for each design / fed stage if they don't exist
+- [ ] Add UI story or stories to support the Epic using the UI Story template
 
 ## Summary
 - [ ] Add brief summary of the overall Epic
