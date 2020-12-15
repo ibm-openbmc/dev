@@ -62,12 +62,11 @@ in order to <complete some task or accomplish some goal>
 - [ ] Sent email to community sharing the design review story
 
 ## FED
-### Overview
-
 ### UX Flow / Interaction Requirements
 - [ ] Feature breakdown
 
-### cURL Commands
+### cURL Commands and Redfish Response
+- [ ] Add Redfish response
 - [ ] Add cURL commands
 
 ### Notes
