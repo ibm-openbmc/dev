@@ -1,6 +1,6 @@
 ---
-name: UI Design Story Template - v2
-about: Use this template when creating any new GUI Design Story
+name: UI Design Story Template
+about: Design only story - Deprecated
 title: 'GUI : Design : (Add story title here)'
 labels: GUI, UI Design, Milestone Tgt
 assignees: ''
