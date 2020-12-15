@@ -1,6 +1,6 @@
 ---
 name: UI Design Story Template
-about: Design only story - Deprecated
+about: Use when creating a story that does not need Research or FED
 title: 'GUI : Design : (Add story title here)'
 labels: GUI, UI Design, Milestone Tgt
 assignees: ''
