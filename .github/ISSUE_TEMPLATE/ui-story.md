@@ -84,4 +84,4 @@ in order to <complete some task or accomplish some goal>
 - [ ] No reported issues in IBM Accessibility Checker (Free open source tool) https://www.ibm.com/able/toolkit/tools/
 
 ### Test Hooks
-- [ ] Added test hooks for all form elements
+- [ ] Verify need for `data-test-id` hooks with test team
