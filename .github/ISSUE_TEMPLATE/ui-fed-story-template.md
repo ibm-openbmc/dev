@@ -33,6 +33,5 @@ assignees: ''
 - [ ] No reported issues in IBM Accessibility Checker (Free open source tool) https://www.ibm.com/able/toolkit/tools/
 
 ### Test Hooks
-- [ ] Verify need for hooks with test team
-
+- [ ] Verify need for `data-test-id` hooks with test team
 
