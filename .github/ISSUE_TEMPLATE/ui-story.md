@@ -83,5 +83,5 @@ in order to <complete some task or accomplish some goal>
 - [ ] Verified markup is semantic
 - [ ] No reported issues in IBM Accessibility Checker (Free open source tool) https://www.ibm.com/able/toolkit/tools/
 
-### Test Hooks
+#### Test Hooks
 - [ ] Verify need for `data-test-id` hooks with test team
