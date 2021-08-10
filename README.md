@@ -8,6 +8,9 @@ These stories haven't been groomed and typically need to be assigned to a milest
 ### Epics
 Contains Epics only. Epics remain in this pipeline until all associated issues are closed.
 
+### Closed Epics
+Contains Epics that are closed, but the story is not ready to close
+
 ### Backlog
 Stories that are lower prioroty and not on the immediate roadmap, but will be revisited for a future release.
 
