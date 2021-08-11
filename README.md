@@ -3,7 +3,7 @@ This repository will be used for tracking IBM product development relative to Op
 
 ## ZenHub Pipelines
 ### New Issues
-These stories haven't been groomed and typically need to be assigned to a milestone.
+These stories haven't been refined or planned and typically need to be assigned to a milestone.
 
 ### Epics
 Contains Epics only. Epics remain in this pipeline until all associated issues are closed.
