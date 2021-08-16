@@ -12,25 +12,20 @@ assignees: ''
 **RAS**:
 **PHYP**:
 
-## Summary
+## Research
+### Summary
 
-### Background
+#### Background
 - [ ] TBD
 
-### End users
+#### End users
 - [ ]  TBD
 
-### User Needs
+#### User Needs
 - [ ] TBD
 
-### User Quotes
+#### User Quotes
 - [ ] TBD
 
-## User Story
-As a <type of user>
-I need to <perform some activity>
-in order to <complete some task or accomplish some goal>
-
-## References
-- [ ] eBMC Feature Item <add number>
+### References
 - [ ] Link to Discovery folder
