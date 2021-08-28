@@ -57,7 +57,7 @@ in order to <complete some task or accomplish some goal>
 - [ ] Sent email to community sharing the design review story
 
 ## FED
-### UX Flow / Interaction Requirements
+### Acceptance Criteria
 - [ ] Feature breakdown
 
 ### cURL Commands and Redfish Response
