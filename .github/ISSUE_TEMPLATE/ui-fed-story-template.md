@@ -14,7 +14,7 @@ assignees: ''
 ## FED
 ### Overview
 
-### UX Flow / Interaction Requirements
+### Acceptance Criteria
 - [ ] Feature breakdown
 
 ### cURL Commands and Redfish Response
