@@ -15,7 +15,10 @@ assignees: ''
 ## Summary
 - [ ] Add brief summary of the overall Epic
     - Is this part of a new or existing Information Architecture
-    - Is this just a wrapper for the stories created for each design / fed stages
+    - Is this just a wrapper for the stories created for each design / implementataion stages
+
+## Features
+- [ ] Add the features of the Epic that the stories will be based on
 
 
 ## References/Resources
