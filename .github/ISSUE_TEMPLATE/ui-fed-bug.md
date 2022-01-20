@@ -1,8 +1,8 @@
 ---
-name: FED Bug Template
+name: UI FED Bug Template
 about: Use this template when creating any new bug
 title: 'GUI: FED: Bug: '
-labels: bug, FED, GUI
+labels: bug, GUI, UI FED
 assignees: ''
 pipelines: 'Sprint + 1'
 
